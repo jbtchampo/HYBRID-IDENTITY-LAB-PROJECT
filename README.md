@@ -60,13 +60,14 @@ This lab demonstrates the setup and validation of a hybrid identity infrastructu
 - Device write-back
 - PowerShell scripting for automation
 
-## 📷 Screenshots (optional)
+## 📷 Screenshots
 
-> Include screenshots of sync status, Azure portal, GPO result, and CA policy.
+> Includes screenshots of sync status, Azure portal, GPO result, and CA policy.
 
 ---
 
 **Created by:** Jean Berlin Tchampo  
 **LinkedIn:** [linkedin.com/in/jeanberlintchampo1](https://www.linkedin.com/in/jeanberlintchampo1)
+
 # HYBRID-IDENTITY-LAB-PROJECT
 Configured on-prem AD synchronized with Azure AD via AAD Connect; tested group policies and conditional access enforcement.

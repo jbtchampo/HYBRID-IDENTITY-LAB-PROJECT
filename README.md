@@ -64,6 +64,11 @@ This lab demonstrates the setup and validation of a hybrid identity infrastructu
 
 > Includes screenshots of sync status, Azure portal, GPO result, and CA policy.
 
+![image](https://github.com/user-attachments/assets/15657650-0e00-4be8-8b6f-459b543d74ec)
+
+
+
+
 ---
 
 **Created by:** Jean Berlin Tchampo  
